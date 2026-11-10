@@ -15,7 +15,7 @@
       name: 'Aeran Kang',
       role: 'Owner',
       line: 'Her favorite part is when the regulars walk in.',
-      photo: ''
+      photo: '/images/about/aeran-kang.jpg'
     },
     {
       name: 'Jonathan Choe',
